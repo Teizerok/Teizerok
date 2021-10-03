@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Teizerok
+- 🌱 I am studying to be a frontend developer
+- 📫 Mail by which you can contact me teizer2410@gmail.com
